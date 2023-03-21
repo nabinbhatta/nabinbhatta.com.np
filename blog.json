@@ -1,0 +1,12 @@
+[
+    {
+        "id": "1",
+        "title": "My first blog",
+        "shortDescription": "Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi"
+    },
+    {
+        "id": "2",
+        "title": "My second blog",
+        "shortDescription": "Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi"
+    }
+]
